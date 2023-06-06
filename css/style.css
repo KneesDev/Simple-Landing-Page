@@ -74,13 +74,13 @@ nav a:hover {
     color: #a3bddd;
 }
 
-a {
+footer a {
     text-decoration: none;
     color: #4693db;
     transition: color 0.2s ease-in-out;
 }
 
-a:hover {
+footer a:hover {
     color: #a3bddd;
 }
 
